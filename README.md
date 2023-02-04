@@ -12,3 +12,7 @@ In order to run the scripts, you can execute each one individually:
 3) train_german_torch.py
 4) train_adult_torch.py
 5) train_fashion_torch.py
+
+In the folder our_code/models you can find more information about the architecture used.
+In the folder our_code/utils you can find more information about the train, evaluation and metrics functions.
+In the folder our_code/data_parsing you can find more information about the data used in the above scripts.
